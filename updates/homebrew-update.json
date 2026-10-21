@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 1,
   "version": "1.2.0",
   "minimumSystemVersion": "13.0",
   "releaseNotesURL": "https://github.com/fthux/tick-rest-macos/releases/tag/v0.2.0",
