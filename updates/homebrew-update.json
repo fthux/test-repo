@@ -1,0 +1,7 @@
+{
+  "schemaVersion": 2,
+  "version": "1.2.0",
+  "minimumSystemVersion": "13.0",
+  "releaseNotesURL": "https://github.com/fthux/tick-rest-macos/releases/tag/v0.2.0",
+  "summary": "改进提醒体验，修复已知问题。"
+}
